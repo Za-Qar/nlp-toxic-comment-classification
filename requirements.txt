@@ -8,3 +8,4 @@ nltk
 spacy
 textblob
 seaborn
+wordcloud
